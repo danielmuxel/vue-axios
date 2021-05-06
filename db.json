@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "vuejs", "author": "typicode" },
+    { "id": 3, "title": "axios", "author": "typicode" },
+    { "id": 4, "title": "nuxt?", "author": "typicode" }
+  ]
+}
